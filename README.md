@@ -47,24 +47,24 @@ Libraryms-PHP/
 ---
 
 ## ⚙️ Installation & Setup
-- **1. Clone this repository:
+- **1. Clone this repository**:
    ```bash
    git clone https://github.com/keshavreddy04/LibraryManagementSystem.git
   Move project files into your server directory (e.g., htdocs for XAMPP).
 
-- **2. Import database:
+- **2. Import database**:
 
-  Open phpMyAdmin.
+  - Open phpMyAdmin.
 
-  Create a new database (e.g., libraryms).
+  - Create a new database (e.g., libraryms).
 
-  Import DATABASE FILE/librarygh.sql.
+  - Import DATABASE FILE/librarygh.sql.
 
-3. Update db_connect.php with your database credentials.
+- **3. Update db_connect.php with your database credentials.**
 
-4. Start Apache & MySQL in XAMPP/WAMP.
+- **4. Start Apache & MySQL in XAMPP/WAMP.**
 
-5.Open in browser: http://localhost/Libraryms-PHP/
+- **5.Open in browser:** http://localhost/Libraryms-PHP/
 
 ---
 
