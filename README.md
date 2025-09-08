@@ -74,6 +74,13 @@ Check 01 LOGIN DETAILS & PROJECT INFO.txt for sample usernames and passwords.
 
 ---
 
+## 👨‍💻 Author
+
+V Om Keshava Reddy
+📌 B.Tech CSE (AI & ML), SRM University
+🔗 [LinkedIn](https://www.linkedin.com/in/v-om-keshava-reddy-792478349/)| [GitHub](https://github.com/keshavreddy04)| [LeetCode](https://leetcode.com/u/keshav_30/)
+
+
 ## 📜 License
 
 This project is open-source and available under the MIT License.
